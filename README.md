@@ -20,6 +20,7 @@ This project solves these issues by introducing a **QR-based inventory managemen
 # 🚀 Features
 
 ## 📦 Product Management
+
 - Add new products
 - Edit product details
 - Delete products
@@ -30,6 +31,7 @@ This project solves these issues by introducing a **QR-based inventory managemen
 ---
 
 ## 📷 QR Code Integration
+
 - Automatic QR code generation for every product
 - Live webcam QR scanning
 - Scan QR codes to quickly access product details
@@ -38,6 +40,7 @@ This project solves these issues by introducing a **QR-based inventory managemen
 ---
 
 ## 📊 Dashboard
+
 - Total products overview
 - Total inventory value
 - Low stock alerts
@@ -47,12 +50,14 @@ This project solves these issues by introducing a **QR-based inventory managemen
 ---
 
 ## ⚠️ Inventory Alerts
+
 - Automatic low-stock detection
 - Quick identification of products needing attention
 
 ---
 
 ## 🖼️ Product Images
+
 - Add product image URLs
 - Product image preview
 - Images displayed in inventory labels and product pages
@@ -60,6 +65,7 @@ This project solves these issues by introducing a **QR-based inventory managemen
 ---
 
 ## 📱 Responsive UI
+
 - Mobile-friendly design
 - Modern dashboard layout
 - Clean inventory management interface
@@ -69,6 +75,7 @@ This project solves these issues by introducing a **QR-based inventory managemen
 # 🛠️ Tech Stack
 
 ## Frontend
+
 - React
 - TypeScript
 - Vite
@@ -76,13 +83,16 @@ This project solves these issues by introducing a **QR-based inventory managemen
 - ShadCN UI
 
 ## Backend
+
 - Laravel
 - PHP
 
 ## Database
+
 - MongoDB
 
 ## QR & Scanner Libraries
+
 - ZXing Browser
 - chillerlan/php-qrcode
 
@@ -195,7 +205,7 @@ MONGODB_DATABASE=inventory_management
 ✔ Responsive modern UI  
 ✔ Inventory analytics dashboard  
 ✔ Product image management  
-✔ Low-stock monitoring system  
+✔ Low-stock monitoring system
 
 ---
 
@@ -206,8 +216,7 @@ MONGODB_DATABASE=inventory_management
 GitHub:  
 https://github.com/riadhh-302005
 
-### Co-Authors
-- Sanvi Kumari
-- Dolly Kumari
+## Co-Authors
 
----
+- **Sanvi Kumari** - [GitHub](https://github.com/sanviii19)
+- **Dolly Kumari** - [GitHub](https://github.com/dolly-kumari002)

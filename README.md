@@ -211,12 +211,12 @@ MONGODB_DATABASE=inventory_management
 
 # 👩‍💻 Authors
 
-## Ria Dhawan
+## Sanvi Kumari
 
 GitHub:  
-https://github.com/riadhh-302005
+https://github.com/sanviii19
 
 ## Co-Authors
 
-- **Sanvi Kumari** - [GitHub](https://github.com/sanviii19)
-- **Dolly Kumari** - [GitHub](https://github.com/dolly-kumari002)
+- _Ria Dhavan_ - [GitHub](https://github.com/riadhh-302005)
+- _Dolly Kumari_ - [GitHub](https://github.com/dolly-kumari002)

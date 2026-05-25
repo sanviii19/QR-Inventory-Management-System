@@ -187,19 +187,6 @@ MONGODB_DATABASE=inventory_management
 
 ---
 
-# 🎯 Future Improvements
-
-- User authentication
-- Role-based access
-- Export inventory reports
-- Sales tracking
-- Barcode support
-- Cloud image uploads
-- Email notifications
-- Inventory transaction history
-
----
-
 # 💡 Key Highlights
 
 ✔ Full-stack architecture  
